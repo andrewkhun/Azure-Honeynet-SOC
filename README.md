@@ -30,10 +30,10 @@ The experiment involved the assessment of security metrics within an initially v
 - [NIST SP 800-61 Revision 2](https://www.nist.gov/privacy-framework/nist-sp-800-61) for Incident Handling Guidance
 
 
-## Architecture Before Hardening / Security Controls
+## Architecture Before Hardening and Security Controls
 ![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
 
-## Architecture After Hardening / Security Controls
+## Architecture After Hardening and Security Controls
 ![Architecture Diagram](https://i.imgur.com/YQNa9Pp.jpg)
 
 The architecture of the mini honeynet in Azure consists of the following components:
