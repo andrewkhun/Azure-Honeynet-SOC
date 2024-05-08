@@ -33,6 +33,10 @@ The experiment involved the assessment of security metrics within an initially v
 ## Architecture Before Hardening and Security Controls
 ![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
 
+<b>Before Hardening Measures and Security Controls:</b>
+
+- In the "BEFORE" stage, all resources were initially deployed with public exposure to the internet. This setup was intentionally insecure to attract potential cyber attackers and observe their tactics. The Virtual Machines had both their Network Security Groups (NSGs) and built-in firewalls wide open, allowing unrestricted access from any source. Additionally, all other resources, such as storage accounts and databases, were deployed with public endpoints visible to the internet, without utilizing any Private Endpoints for added security.
+
 ## Architecture After Hardening and Security Controls
 ![Architecture Diagram](https://i.imgur.com/YQNa9Pp.jpg)
 
