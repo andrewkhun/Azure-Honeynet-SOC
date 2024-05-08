@@ -1,7 +1,7 @@
 # Azure Honeyney and SOC with Real-World Cyber Attacks
 ![Cloud Honeynet / SOC](https://i.imgur.com/ZWxe03e.jpg)
 
-## Introduction
+## Introduction and Objective
 
 A miniature honeynet was constructed within the Azure platform. Log data originating from diverse sources were aggregated into a Log Analytics workspace. Subsequently, Microsoft Sentinel leveraged this data to formulate attack visualizations, initiate alert notifications, and generate incident reports.
 
