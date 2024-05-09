@@ -1,5 +1,5 @@
 # Azure Honeyney and SOC with Real-World Cyber Attacks
-![Cloud Honeynet / SOC](https://i.imgur.com/ZWxe03e.jpg)
+![Cloud Honeynet / SOC](https://imgur.com/bZI88hg.jpg)
 
 ## Introduction and Objective
 
@@ -31,14 +31,14 @@ The experiment involved the assessment of security metrics within an initially v
 
 
 ## Architecture Before Hardening and Security Controls
-![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
+![Architecture Diagram](https://i.imgur.com/lFKkzuM.jpg)
 
 <b>Before Hardening Measures and Security Controls:</b>
 
 - In the "BEFORE" stage, all resources were initially deployed with public exposure to the internet. This setup was intentionally insecure to attract potential cyber attackers and observe their tactics. The Virtual Machines had both their Network Security Groups (NSGs) and built-in firewalls wide open, allowing unrestricted access from any source. Additionally, all other resources, such as storage accounts and databases, were deployed with public endpoints visible to the internet, without utilizing any Private Endpoints for added security.
 
 ## Architecture After Hardening and Security Controls
-![Architecture Diagram](https://i.imgur.com/YQNa9Pp.jpg)
+![Architecture Diagram](https://i.imgur.com/QXL0t70.jpg)
 
 The architecture of the mini honeynet in Azure consists of the following components:
 
