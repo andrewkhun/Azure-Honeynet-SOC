@@ -85,7 +85,7 @@ Stop Time	2024-05-08 19:18:11
 
 | Metric                   | Count
 | ------------------------ | -----
-| SecurityEvent            | 0
+| SecurityEvent            | 122
 | Syslog                   | 5
 | SecurityAlert            | 0
 | SecurityIncident         | 0
