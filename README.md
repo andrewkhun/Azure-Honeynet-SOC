@@ -1,4 +1,4 @@
-# Azure Honeyney and SOC with Real-World Cyber Attacks
+# Azure Honeynet and SOC with Real-World Cyber Attacks
 ![Cloud Honeynet / SOC](https://imgur.com/bZI88hg.jpg)
 
 ## Introduction and Objective
